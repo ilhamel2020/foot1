@@ -1,13 +1,13 @@
 {"ads":{
 
- "ShowAds":true,
-    "ShowLoadingAds":true,
+ "ShowAds":false,
+    "ShowLoadingAds":false,
     "ClickCount":1,
     "PriorityBanner":"iron",
     "priorityInterstitial":"iron",
     "PriorityNative":"max",
     "PriorityReward":"iron",
-    "IronAppKey":"85460dcd",
+    "IronAppKey":"",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
     "IronReward":"DefaultReward",
@@ -19,7 +19,7 @@
     "TopOnReward":"xxxxxxxx",
     "MaxBanner":"xxxxxxxx",
     "MaxInterstitial":"xxxxxxxx",
-    "MaxNative":"5534d47212ed8e80",
+    "MaxNative":"",
     "MaxReward":"",
     "FanBanner":"",
     "FanInterstitial":"",
@@ -27,7 +27,7 @@
   },
   "ControlApp":{
  "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
- "app_redirect":"yes",
+ "app_redirect":"no",
 "redirect_package_name":"com.example.test"
     
     }
