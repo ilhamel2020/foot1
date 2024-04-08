@@ -1,35 +1,42 @@
-{
-    "Ads": {
-        "ShowAds": true,
-        "ShowLoadingAds": true,
-        "ClickCount": 1,
-        "PriorityBanner": "admob",
-        "priorityInterstitial": "admob",
-        "PriorityNative": "admob",
-        "PriorityReward": "admob",
-        "IronAppKey": "",
-        "IronBanner": "DefaultBanner",
-        "IronInterstitial": "",
-        "IronReward": "",
-        "MaxBanner": "",
-        "MaxInterstitial": "",
-        "MaxNative": "",
-        "MaxReward": "",
-        "FanBanner": "xxxxx",
-        "FanInterstitial": "xxxxx",
-        "FanNative": "xxxxxx",
-       "AdmobInterstitial":"",
-      "AdmobBanner":"",
-      "AdmobNative":"",
-      "AdmobReward":""
-    },
-    "ControlApp": {
-        "ShowFootballScoresWarning": false,
-        "ShowCricketSCoresWarning": false,
-        "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
-        "OnesignalID": "xxxxx",
-        "ShowUpdate": false,
-        "UpdateVersion": 2,
-        "UpdateLink": "https://play.google.com/store/apps/details?id=com.livefootballtv.allfootball_livetvhd2023"
+{"ads":{
+
+ "ShowAds":false,
+    "ShowLoadingAds":false,
+    "ClickCount":1,
+    "PriorityBanner":"admob",
+    "priorityInterstitial":"admob",
+    "PriorityNative":"admob",
+    "PriorityReward":"admob",
+    "IronAppKey":"",
+    "IronBanner":"DefaultBanner",
+    "IronInterstitial":"DefaultInterstitial",
+    "IronReward":"DefaultReward",
+    "MaxBanner":"xxxxxxxx",
+    "MaxInterstitial":"xxxxxxxx",
+    "MaxNative":"",
+    "MaxReward":"",
+    "FanBanner":"",
+    "FanInterstitial":"",
+    "FanNative":"",
+    "AdmobBanner":"",
+    "AdmobInterstitial":"",
+    "AdmobNative":"",
+    "admob_reward":""
+  },
+  "ControlApp":{
+ "PlayerPackageName": "",
+ "app_redirect":"no",
+"redirect_package_name":""
+    
     }
+
+
+ 
+
+
+  
+ 
+  
+
+
 }
